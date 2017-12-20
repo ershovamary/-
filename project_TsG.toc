@@ -1,0 +1,13 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1}\IeC {\'E}ire}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Rialtas}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Daoine}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Cult\IeC {\'u}r}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Fl\IeC {\'o}ra agus f\IeC {\'a}na}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Sp\IeC {\'o}rt}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Na me\IeC {\'a}in chumars\IeC {\'a}ide}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Stair}{4}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}T\IeC {\'\i }reola\IeC {\'\i }ocht}{6}{subsection.1.8}
+\contentsline {subsubsection}{\numberline {1.8.1}Oile\IeC {\'a}in na h\IeC {\'E}ireann}{8}{subsubsection.1.8.1}
+\contentsline {section}{\numberline {2}An Ghaeilge}{9}{section.2}
+\contentsline {section}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }}{9}{section*.2}
